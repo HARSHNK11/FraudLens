@@ -106,17 +106,12 @@ This generates:
 **Backend:**
 ```bash
 uvicorn backend.main:app --reload
-```
 
-👉 http://localhost:8000/docs
 
 **Frontend:**
 ```bash
 cd frontend
 npm run dev
-```
-
-👉 http://localhost:5173
 
 ---
 
